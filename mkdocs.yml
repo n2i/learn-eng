@@ -1,1 +1,13 @@
 site_name: Keep Calm & Learn English
+pages:
+    - Giới thiệu: 'index.md'
+    - Nội dung:
+        - 'Bìa': '0-0title.md'
+        - 'Lời Nói Đầu': '0-1loinoidau.md'
+        - 'Chương 1 - Các Quy Tắc Để Thành Công': '1-0cach-hoc-tieng-anh-hieu-qua.md'
+        - 'Chương 2 - Effortless English': '2-0cach-hoc-tieng-anh-hieu-qua.md'
+        - 'Chương 3 - Phương pháp học Tiếng Anh hiệu quả nhất – Phần 1': '3-0cach-hoc-tieng-anh-hieu-qua.md'
+        - 'Chương 4 - Phương pháp học Tiếng Anh hiệu quả nhất – Phần 2': '4-0cach-hoc-tieng-anh-hieu-qua.md'
+        - 'Chương 5 - Phương pháp học Tiếng Anh hiệu quả nhất – Phần 3': '5-0cach-hoc-tieng-anh-hieu-qua.md'
+        - 'Chương 6 - Cách học Effortless English': '6-0cach-hoc-tieng-anh-hieu-qua.md'
+
