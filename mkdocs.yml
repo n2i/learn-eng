@@ -1,5 +1,6 @@
 site_name: Keep Calm & Learn English
 theme_dir: cinder
+repo_url: "https://github.com/xuansamdinh/learn-eng"
 pages:
     - Giới thiệu: 'index.md'
     - Nội dung:
