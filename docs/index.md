@@ -1,6 +1,8 @@
 # Keep Calm & Learn English
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Đây là bản online của quyển sách nhỏ **Cách học tiếng Anh hiệu quả nhất - Sơ
+lược**.
+
 
 ## Commands
 
