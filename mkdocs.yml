@@ -1,4 +1,5 @@
 site_name: Keep Calm & Learn English
+theme_dir: cinder
 pages:
     - Giới thiệu: 'index.md'
     - Nội dung:
