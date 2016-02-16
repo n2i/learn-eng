@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Keep Calm & Learn English\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Keep Calm & Learn English\n\n\n\u0110\u00e2y l\u00e0 b\u1ea3n online c\u1ee7a quy\u1ec3n s\u00e1ch nh\u1ecf \nC\u00e1ch h\u1ecdc ti\u1ebfng Anh hi\u1ec7u qu\u1ea3 nh\u1ea5t - S\u01a1\nl\u01b0\u1ee3c\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
             "title": "Home"
         },
         {
             "location": "/#keep-calm-learn-english",
-            "text": "For full documentation visit  mkdocs.org .",
+            "text": "\u0110\u00e2y l\u00e0 b\u1ea3n online c\u1ee7a quy\u1ec3n s\u00e1ch nh\u1ecf  C\u00e1ch h\u1ecdc ti\u1ebfng Anh hi\u1ec7u qu\u1ea3 nh\u1ea5t - S\u01a1\nl\u01b0\u1ee3c .",
             "title": "Keep Calm &amp; Learn English"
         },
         {
